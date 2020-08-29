@@ -1,0 +1,225 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Medico</string>
+    <string name="LOGO">Medico</string>
+    <string name="dummyShortText" tools:ignore="Typos">Travel wherever you like like never before. Although there are shaded areas in the complex but it is always good to carry sunscreen or sunglasses especially during summer.</string>
+    <string name="terms_text">By signing up you agree to our Terms of Use, Privacy Policy and Rules.</string>
+    <string name="privacy">Before signing in make sure you agree to our Terms and Conditions and Privacy Policy.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily_tips">1.Do not do the things that you do not like to do. Life changes and you also have to keep changing. If you do not want to do any more work, then stop doing it. (Even though it may take a little time to do so.)
+
+\n \n2.Do only one thing at a time. While doing this you will get good results and you will feel good and be less sad.
+
+3.On every Sunday, spend at least 10 to 15 minutes planning the entire week. At that time, write about your whole week plan, looking at your to-do list and prepare accordingly. With this, you can do your work to the fullest, by doing this you will be able to do all your work comfortably without any worry.
+\n \n
+4. Shop all food items once a week. You can also save your time, energy and money with this.
+\n \n
+5. When you are grieving, in any problem or worrying about your future, then take 2 minutes long breath from Belly and only pay attention to the air which is getting in and out. This will keep your body calm and bring your mind back to the present moment.
+\n \n
+6. Do not try to do things with perfection. You can do things well and when you can do well then you must keep doing it. Do not try to complete the path in which things are fulfilled, change them in the same way.
+\n \n
+7.Check all once a day. I check my email inbox, blog statistical, online earning, twitter and facebook only once a day. At the end of my work time, we see all of them because I never waste my energy and attention.
+\n \n
+8. Choose small acts filled with kindness every day. Perform a good kindness act by stopping the work of criticism.
+\n \n
+9.Throw away things that you have not used for the last 1 year. Go ahead on the strength of things you have and ask yourself whether you used those things last year. If not, give or throw them away to someone else or your friend.
+\n \n
+10. Ask yourself a simple question every day. Questions such as, "What is the most important thing that I can do right now?" And "What small steps should I take to make the situation easy?".
+\n \n
+11. Let things be in their place. If everything stays in its original place, then you will get it easily when the work is done.
+\n \n
+12. Turn off the subscription of things that you read or watch a lot.
+\n \n
+13.Write short emails. Generally I write emails with short sentences, often only 1 to 5 sentences. But if you write a small email, then you can easily describe the biggest situation in small words.
+\n \n
+14.Ask instead of guessing. It is very difficult to read the mind. That is why instead of guessing, ask and talk. By this you can avoid misconceptions, difficulties and negativity and waste of time.
+\n \n
+15.Use the smallest workplace. My workplace is just a laptop set on a small wooden table. On which a glass of water is also placed on the back side. At my workplace, I have computers and only water.
+\n \n
+16. Stop making everyone happy. Because in the life of all of us, there are definitely some people whom we can never move forward with, so do not try to please everyone.</string>
+
+    <string name="_20">20 formula to stay healthy</string>
+
+
+    <string name="_30">\u00a9 Medico</string>
+
+    <string name="_5_min_read_by_surbhi_chaursayia"><u>5 min read | By Mutumbo</u></string>
+    <string name="tips">"Virtuous tips"</string>
+
+
+    <!-- Adding All Titles here for content -->
+    <string name="title_a">5 tips for health </string>
+    <string name="title_b"> 10 good habits to stay healthy </string>
+    <string name="title_c">Super Foods </string>
+    <string name="title_d"> To be long Then do this yoga </string>
+    <string name="title_e"> Nine tips to stay healthy </string>
+    <string name="title_f"> 20 formula to stay healthy </string>
+    <string name="title_g"> Follow these small tips if you want to stay fit </string>
+
+    <!-- Adding All Headings here for content -->
+    <string name="heading_a">There are some ways of living in Nepali culture that we have followed for many generations, such as fasting, getting up and sitting, and using copper utensils to keep water filled!</string>
+    <string name="heading_b">heading B</string>
+    <string name="heading_c">While the winter season comes, there is excitement in the mind on the one hand, on the other hand, in terms of health, this season also proves dangerous at times. There are many types of problems during the winter season. But our nature has given many things to fight these problems, with the help of which you can avoid the problems of winter. According to Oriflame India dietician Sonia Narang, some superfoods can be extremely helpful in dealing with winter problems!</string>
+    <string name="heading_d">What is impossible in yoga? If you are fat and want to be thin, then it is possible. If you want to be stress free, then it is also possible and if you want to be taller, it is also possible. Yes, now you can adopt the path of yoga to increase your length. We tell you what to do.
+Tadasana done by standing helps in increasing the length and this is also very easy. This can be done easily at any age.</string>
+    <string name="heading_e">heading e</string>
+    <string name="heading_f">A small and easy change in the routine can make you healthy and longevity. Provided you take some things for life and remove some discarded things forever. For this, adopt a simple 20-point life. </string>
+    <string name="heading_g">दHeading g</string>
+
+
+    <!-- Adding All Description here for content -->
+
+<!--    <string name="desc_a" tools:ignore="TypographyEllipsis">There are some simple remedies in yogic science that are good for health and well being. For example, the method of fasting, the method of getting up and sitting, and the use of copper utensils to keep water filled ... In this blog, read about hidden science behind some such methods.-->
+<!--\n \n1. Drink copper pot water \n \n-->
+<!--Medical science is taking a keen interest in the bacteria-destroying properties of copper. There have been many experiments over the years and scientists have discovered that water has its own memory - it remembers everything it touches. Due to our own memory of water, we pay attention to how to keep it in the pot.-->
+<!--Get into the habit of eating the right kind of food first, then think of fasting. If you try to force your desire to eat, it will harm your body.-->
+<!--If you keep the water in a copper vessel overnight or for at least four hours, then it contains some properties of copper.-->
+<!--Drink water from a copper vessel. This water is especially good for your liver and generally for your health and strength. If the water is pumped with great speed and reaches your house with the help of iron or plastic pipe after circling countless turns, then there is a lot of fault due to the passing of all these turns. But water also has the power to regain its original form along with memory. If you keep this tap water without stirring it for one hour, then the defect automatically ends.-->
+<!--\n \n \n2. Body not sleep, rest \n \n \n-->
+<!--What time you go to sleep depends on your lifestyle, but the importance is how many hours of sleep you need. It is often said that one must sleep eight hours a day. What your body needs is not sleep, it is comfort. If you give rest to your body throughout the day, if your work, your exercises are everything as a rest for you, then your hours of sleep will be reduced automatically. People want to do everything under stress. I have noticed that people are also tense while walking in the park. Now this type of exercise will do you harm rather than profit, because you are taking everything in such a way that you are fighting a war. Why don\'t you take a walk with ease? Whether walking or jogging, why not do it with full fun and comfort?-->
+<!--So the question revolves around how much sleep my body needs? It depends on what kind of manual labor you do. You need to decide neither the amount of food nor the hours of sleep. I have to take so much calories, I have to sleep for so many hours, these are all stupid things to live life. The level of physical work you are doing today is low, so you eat less. Tomorrow if you have to work more then you eat more. It is the same with sleep. The moment your body gets complete rest, it will wake up whether it is 3 in the morning or 8. Your body should not wake up when the alarm bell rings. Once the body relaxes, it should wake itself up.-->
+<!--\n \n \n3. Fast once in two weeks \n \n-->
+<!--There is something called 'Mandal' attached to the natural cycle of the body. Mandal means that every 40 to 48 days the body goes through a particular cycle.-->
+<!--There are three days in every cycle in which your body does not need food. If you become aware of your body, then you yourself will also realize that the body does not need food in these days. On any one of these days you can live comfortably without food.-->
+<!--In 11 to 14 days, a day also comes when you will not feel like eating anything. You should not eat that day. You would be surprised to know that dogs and cats also have so much awareness inside. Never look closely, on a particular day they do not eat anything. Actually, they are fully aware of their system. The day the system says that no food should be taken today, that day becomes a day of cleansing the body for them and on that day they do not eat anything. Now there is not enough awareness in you that you can recognize those special days. Then what to do! Just to solve this problem, Ekadashi day has been fixed here. According to Hindi months, Ekadashi falls once every 14 days. This means that every 14 days, you can have one day without eating. If you cannot eat without eating anything or your work is such that due to which you do not have to be hungry and you do not have the cultivation required to stay hungry, then you can take fruit. Overall, the point is that just become aware of your system.-->
+<!--One more thing, if you are used to drinking tea and coffee again and again and try to keep fast, then you will have a lot of trouble. There is only one solution to this problem. If you want to keep fast, first of all, improve your eating habits. Get into the habit of eating the right kind of food first, then think of fasting. If you try to force your desire to eat, it will harm your body. There is one more important thing here that under no circumstances be forced.-->
+
+<!--\n \n \n4. Sit with your back straight \n \n-->
+<!--Being at rest in the internal organs of the body has special significance. It has many aspects. We are currently considering only one aspect of it. Most of the important internal organs of the body are in the chest and abdomen. All these parts are neither hard or stiff nor do they use any place with nuts or bolts.</string>-->
+
+
+<!--    <string name="desc_b">\n\n1.After coming home from anywhere, wash your hands thoroughly with soap, before cooking, before eating, after eating and after using the bathroom. If you have a small child in your house then it becomes more necessary. Make sure to wash your hands thoroughly before applying it.-->
+<!--\n \n \n2. Pay special attention to cleanliness in the house, especially on kitchens and toilets. Do not let the water collect anywhere. Regularly clean the place like sink, wash basin etc. and keep using phenyl, floor cleaner etc. Do not leave any food item open. Keep raw and cooked food separately. Keep the utensils, fridge, oven, etc. used for cooking and eating clean. Never put wet utensils in a rack, nor put a lid without dry compartments etc.-->
+<!--\n \n \n3. Use fresh vegetables and fruits. Also store the spices, grains and other ingredients used correctly and make sure to check the date on the items with expiry date. \n \n \n 4. Too much oil, spices made, backed and rich food Do not use Cook food at the right temperature and do not destroy the nutritious elements of vegetables etc. by over-cooking. Also, take special care of temperature while using the oven. Always keep food items covered and eat fresh food.-->
+<!--\n \n \n5. Use salads, yogurt, milk, oatmeal, green vegetables, whole lentils and grains in the food. Try to include variety of food in your plate. Use clean water for cooking and drinking. Wash vegetables and fruits thoroughly and use them. \n \n \n6. Prefer the use of unsaturated vegetable oil (such as soybean, sunflower, corn or olive oil) for cooking. Use both sugar and salt in food to a minimum. Do not use junkfood, soft drinks and juices made from artificial sugar etc. Try to have dinner by eight o'clock and this meal should be light-hearted.-->
+<!--\n \n \n7. Keep your resting or sleeping room clean, ventilated and open. Keep changing sheets, pillow covers and curtains, and also flick mattresses or mattresses with sunlight periodically. \n \n \n8. Use meditation, yoga or meditation to increase concentration and stay away from stress. \n \n \n9. Do any exercise daily. For this, give at least half an hour daily and keep changing the way of exercise, like doing aerobics and sometimes just walking fast. If you cannot find time for anything, then aim to climb the stairs of the office or house and walk fast. Try not to sit in the same position for too long in the office.-->
+<!--10. After the age of 45, get your routine checked up and if the doctor gives you any medicine, then take it regularly. Take time to be close to nature. Play with the kids, run with your pet, and even take time out for light entertainment with the family.</string>-->
+
+
+    <string name="desc_c" tools:ignore="TypographyEllipsis">\n Root of Ashwagandha: \n \n The root of Ashwagandha is used as an effective Ayurvedic medicine in traditional Indian medicine system. It is considered an adaptogen. This means that there is an herb that is considered to be very effective in improving physical energy, increasing the ability of sportsmen, improving immunity and increasing fertility.
+
+    \n \n \n Turmeric: \n \nTurmeric is used extensively to increase immunity. As an anti-bacterial, anti-fungal and anti-viral, it is helpful in strengthening the body\'s immune system. If turmeric is taken in hot milk, it proves more beneficial.
+
+
+    \n \n \nChia seeds: \n \nChia seeds are a source of protein, omega 3 fatty acids and important minerals. For better benefits, soak them in water overnight and take them in the morning.
+
+
+    \n \n \n Carrots: \n \n Funny carrots come in the winter season ... Carrots contain beta carotene, which the body converts into Vitamin-A. Vitamin-A is helpful for the immune system, to protect against infection and to reduce the risk of respiratory diseases by keeping the lungs healthy. It is also a great way to reduce the effect of age on the skin.
+    \n \n \n Garlic: \n \n Garlic is rich in many qualities as well as enhancing the taste of food. Garlic is very low in calories as well as it is full of phytonutrient anethole, which is helpful in increasing immunity.
+
+
+    \n \n \n Beetroot: \n \n Beetroot is rich in beneficial phytochemicals and antioxidants that helps fight free radicals that damage healthy cells and their DNA and strengthens the immune system.</string>
+
+    <string name="desc_d">\n \nThank Tadasana- \n \nBoth AD and claws stand with a slight gap. \n \n- Place both hands upward at the waist and join the palms. \n \n- The fingers of both hands should also be mixed together. \n \n- Keep the waist straight, eyes in front and neck straight. \n \n- Both heels also rise up and put the entire weight of the body on the claws. \n \n- Stomach inside with hands and feet raised. This will not spoil your balance.
+        \n \n \n Benefits of Tadasana \n \nThis asana is very beneficial for those who are short in length. Not only this, it also gives relief from pain in the feet.</string>
+
+
+    <string name="desc_e">\n\n1 .If you want to sleep happily, then do not worry while sleeping, think of the Lord. \n \n2. If you want to keep digestive power, then eat at the right time and chew each mouthful 32 times. \n \n3. If sexual power is to be maintained, do not do erotic thinking and do not cum more than once a week! \n \n4. It is a misconception that eating eggs, meat increases strength, and drinking alcohol brings pleasure. Eating eggs, meat can make your body fat and strong, but some diseases also arise from it. Drinking does not cause pleasure, fainting, and illnesses. \n \n5. One who spends more money than his financial power becomes a debtor. One who becomes more laborious than his physical strength becomes weak. The one who consumes more than his ability quickly becomes old and impotent and the hostile is destroyed more than he is stronger. \n \n6. There should be no worry, anger or mourning while eating and at bedtime. Washing hands before meals and feet before sleeping and cleaning the mouth both times is beneficial. \n \n7. If you want to remain healthy and fit for free, then you should do three things. The first is to get up early in the morning and go for a long walk for air intake, and the second must be chewed properly at the right time and the third must go to defecation both times. \n \n8. In the state of illness, after getting rid of disease, after eating, after weary of labor or travel, it is very harmful to enjoy the subject in the morning and sunset and while fasting. \n \n9. If you want happiness, then do not do sorrowful work, if you want pleasure then protect health. If you want health, then take exercise and diet. Only a healthy person can enjoy all the happiness of the world. It has been said that the first happiness is a physical body.</string>
+
+    <string name = "desc_f"> \n \n1. Get up early in the morning (5 am) every morning and go for two or three km walks. Start the day with sun worship. This will awaken a power that will give freshness to the mind and heart. \n \n2. Always keep the body upright, that is, if we sit, weighed, if we walk, we should always stand tightly, that is, keep the body tight. Try to make health by eating. The best way to do this is to chew the food always by chewing it so that the digestion is good, it will not cause any problems. \n \n4. The main reason of obesity is oily and sweet substances. It increases fat, laziness and lethargy in the body. Consume these substances in limited quantities. \n \n5. Renounce heavy-heavy food or non-digestible food. Even if you have to do this, fast one time and balance it. \n\n6. Make a habit of reducing the use of the vehicle by reducing its attachment. Walk for short distances as far as possible. This will exercise muscle, which will make you stay healthy and attractive, as well as help in protecting the environment. \n \n7. Use more and more fruits and vegetables in food. Obtain essential oil elements from them, get the essential oil for the body from natural substances only. \n \n8. Do not let the mind fall into sleep, want to do the work promptly. \n \n9. Do household chores yourself - these tasks give fruits of many exercises. \n \n10. Business is a boon, it is a free medicine of longevity, keep yourself busy. \n \n11. Wear clothes to suit your personality. Wear some tight clothes, this will keep you fit. \n \n12. Life is the name of walking, mobility is life, always remember it. \n \n13. Have a sense of dedication to the goal, purpose and work in your life. \n \n14. The beauty of the body lies in its cleanliness. Take special care of it. \n \n15. Must do brushes in the morning and night. Also, take a bath before sleeping and change your clothes. You will feel fresh. \n \n16. Each organ of the body respires through the perforated pores. That is why wear clothes at the time of sleeping, be clean, clean and minimal. Cotton clothes are perfect. \n \n17. Always keep hair at bay. Use oil regularly in your hair. Keep hair short, clean, clean unnecessary hair. \n \n18. Make sure to take time to visit your deity regularly. Regardless of any religion, you must pray to God according to your religious system. \n \n19. The beauty of body, mind and thoughts is lost due to anger. Avoid loss of your physical energy by remaining restrained in moments of anger. \n \n20. Humility of mind and speech can lead to humiliation on many occasions. So, keep restraint in speech and get affection from others, not hatred. </string>
+    <string name="desc_g">\n \n1. What to do in the morning to stay fit? \n \n
+Often people get up from the alarm in the morning, then some people get irritated with the morning alarm. As a result, the mood of such people does not remain well throughout the day, due to which they start feeling ill. Anyway, staying fit in today\'s bustling life has become a difficult task.
+\n \n2. What to do in the morning to stay fit?
+\n \n If you want to stay fit and stay fresh throughout the day, start your morning health. Today we are going to tell you some tips that by doing it in the morning, not only can you stay fit but also make your morning happy.
+\n \n3. Get up early
+\n \n Of course you have a habit of getting up through the alarm, but now leave this habit and make a habit of getting up without alarm. If you really want to stay fit then wake up before the sun rises. But do not let yourself fall asleep in the cycle of getting up early. Get enough sleep for about eight hours. For this, it is important that you sleep early at night so that you can sleep.
+\n \n4. Oil gargle
+\n \nTo stay fit, you need to follow some healthy habits. After waking up early in the morning, gargle with oil and exercise the mouth. By doing this, your mouth problems will end and you will avoid chemical life in your mouth.
+\n \n5. Stretching
+\n \nIt is also necessary to do some exercise after oil pulling. Get used to exercising and exercise in the morning. For this, start with meditation. Sit down for a while. After this, do light exercise.
+\n \n6. Stretching
+\n \n Note that exercising too much can make you tired, you will feel tired throughout the day. In this case, start the day with a little different workout. You will be energetic throughout the day.
+\n \n7. Yoga
+\n \nAfter meditation and exercising, give yoga for some time. This will give strength to the issues and increase your efficiency. If you want, you can do yoga one day, one day workout.
+\n \n8. Cycling or walking
+\n \nMaking on the grass barefoot in the morning, walking fast, jogging are all very beneficial. If you do not want to go jogging, you can also go cycling in the morning in fresh air. This will increase blood circulation and you will be completely healthy.
+\n \n9. lemonade
+\n \nWaking up in the morning with a light lukewarm lemonade or drinking honey and lemonade can strengthen your immune system. With this, you will overcome vitamin C deficiency and hydration level will be better. Along with improving mood, stomach problems will also be overcome.
+\n \n10. Breakfast
+\n \nBe sure to have breakfast throughout the day. Do a heavy breakfast but do it homemade. Breakfast is required daily in the morning to stay fit. Also, you can avoid gastric and stomach problems. Morning breakfast is also necessary to keep your mind sharp.
+\n \n11. Drink water
+\n \nIt is necessary to drink water to stay fit. Drink at least 8 glasses of water throughout the day. This will detoxify the body and remove the germs from the body through urine.
+\n \n12. Other tips
+\n \n Apart from these tips, you should eat something lightly every two hours. Remove junkfood and oily food from your diet. Make dinner fast and have lunch on time. Do not eat very heavy food at night. Walk more and more in the office and use stairs instead of going to lift.</string>
+
+
+    <string name="gn">Symptoms | home remedies</string>
+    <string name="gn_a">बFall out</string>
+    <string name="gn_b">Younger Mother (Chicken Pox)</string>
+    <string name="gn_c">nose bleeding</string>
+    <string name="gn_d">Do you also have gas?</string>
+    <string name="gn_e">Cough and cold</string>
+    <string name="gn_f">Constipation</string>
+    <string name="gn_g">Pimples / Pimples</string>
+    <string name="gn_h">Dental problem</string>
+    <string name="gn_i">Vomiting and headache</string>
+    <string name="gn_j">Pneumonia</string>
+
+    <string name="gn_la">\n \u2022 Hair loss and breakage have become a common thing in the lives of all people, many times with two mouths
+Hair fall is a common problem that almost everyone is worried about.
+Mouth hair breaks, everyone ignores the problem of hair break, if only girls
+To talk about all kinds of expensive and expensive shampoo oils to keep your hair thick and long
+Uses conditioner, but using chemical in hair causes hair to fall more
+Are there any preventions from them, due to the chemical, roots and weakening many
+Hair often becomes dry and delicate due to which it breaks from the skin. The main reason for hair loss
+The chemical item used is harmful for any type of chemical hair.
+\n \n \n \u2022 The pressure of responsibility on human beings is also increasing due to time, due to this, human stress and
+Stretching or stress is doubling the problem of hair breakage.
+Diet has deteriorated due to which they do not get sufficient amount of protein and antioxidants
+Due to this poor diet, their hair starts falling apart due to lack of protein in our body.
+It breaks hair</string>
+
+    <string name="gn_upa">\n\u2022 Hair Oil Massage - The First Which To Reduce The Loss Of Losing Your Hair
+Steps you can take is to massage your scalp with oil. Hair and head
+With proper massage increases the blood flow to the hair follicles and your hair
+The strength of the roots increases. It can bring you comfort and feelings of stress
+Will also help in reducing. You can use coconut or almond oil, olive
+Oil, castor oil, amla oil, or other oil may be used. Better and faster
+Add a few drops of Rosemary Essential Oil to the result. With your fingers
+By applying light pressure on the hair and scalp from one of the oils mentioned above,
+Massage. Do this at least once a week.
+\n \n \u2022 Amla - \n For natural and rapid growth of hair, you can also use Amla
+Can. Amla is rich in vitamin C, which the body lacks in hair
+There may be a reason for the fall.
+\n \n \u2022 Fenugreek - \n \n Fenugreek is very effective in the treatment of hair loss. Hormone antacid in fenugreek seeds
+There are those which help to enhance hair growth and rebuild hair follicles.
+
+It also contains protein and nicotinic acid which stimulates hair growth
+is.
+\n \n \u2022 Onion juice - \n Onion juice contains high amount of sulfur content, which is used for hair follicles.
+Improves blood circulation, rebuilding hair follicles and reducing inflammation
+Helps reduce hair loss due to which. In onion juice
+Has antibacterial properties that can cause germs to cause hair loss and
+Helps kill parasites, and treat scalp infections. 2002
+In a study published in the Journal of Dermatology, study participants whose
+Onion juice was applied to the scalp, about 74 percent of them significant hair
+Experienced redevelopment.
+\n \n \u2022 Aloe vera - \n Aloe vera contains enzymes that directly promote healthy growth of hair
+Are included. In addition, due to its alkaline properties it increases the pH of the hair
+Can help bring it to the right level and promote hair growth. Aloe vera
+With the regular use of it you can relieve itching of the scalp, scalp redness
+And can reduce inflammation, increase hair strength and shine, and also dandruff
+Can reduce. Both aloe vera gel and juice are effective in this work</string>
+
+
+    <string name="about_us">Today, Ayurveda is dominated by all over the world, advises the practitioners, doctors, scientists, Ayurveda and yoga of the entire world and follow their miraculous effects.
+Home remedies can be used in various everyday diseases such as fever, colds, headache, physical impairment, obesity, abdominal pain, back pain, joints and knee pain etc and it is instant relief. Think of your health, now you sit at home.
+Through this app, we are trying to reach the domestic Ayurvedic prescriptions to the general public so that all people can take Ayurveda in their life and benefit from it.
+\n\n\u2022Prevention is better than cure. Get personal and useful health tips. Simple tips to improve your daily health or lifestyle.
+\n\n\u2022Here you can check of any disease after uploading an image of that part of your body which is suffered from the disease and provide details of the corresponding disease to you.
+\n\n\u2022What if you already know that this disease is spreading rapidly in your area. Is not it good? Of course it is good so that you can save yourself from suffering or take action accordingly.
+This feature of the application provides the name of the disease that most people suffer and to prevent that illness, an expert will be sent to resolve that common disease.
+</string>
+    <string name="channel_name">hello</string>
+    <string name="channel_description">data</string>
+    <string name="maleriya"><b>Malaria</b> is an infection caused by single-celled parasites that enter the blood through the bite of an Anopheles mosquito. These parasites, called plasmodia, belong to at least five species. Most human infections are caused by either Plasmodium falciparum or Plasmodium vivax</string>
+    <string name="finddisease">FindDisease</string>
+    <string name="checkme">CheckMe</string>
+    <string name="blog_post">Blog Post</string>
+    <string name="dt">Daily Tips</string>
+    <string name="tiny_tips">Tiny Tips</string>
+    <string name="test">Test</string>
+
+
+</resources>
